@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Barath K
+# 👋 Hi, I'm Barathvaj K
 
 **Backend Developer | Node.js | Express.js | MySQL | MongoDB**  
 
