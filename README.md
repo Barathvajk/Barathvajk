@@ -21,16 +21,7 @@ I build **scalable, secure, and efficient backend systems**. I enjoy designing A
 ![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin)
 ![CSS3](https://img.shields.io/badge/CSS3-Design-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin)
 ![Postman](https://img.shields.io/badge/Postman-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&animation=spin)
-![Git](https://img.shields.io/badge/Git-Version- F05032?style=for-the-badge&logo=git&logoColor=white&animation=spin)
 
----
-
-## 📊 GitHub Stats
-
-![Barath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=barathvajk&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barathvajk&theme=radical&layout=compact)
-
----
 
 ## 🔭 Currently Learning
 
