@@ -41,4 +41,4 @@ I build **scalable, secure, and efficient backend systems**. I enjoy designing A
 
 ## ⚡ Fun Fact
 
-I’m also a **digital artist**! Check out my portfolio: [Barathvaj | Digital & Portrait Art[](https://barathvaj.art](https://myartportfolio-site.netlify.app/))
+I’m also a **digital artist**! Check out my portfolio: (https://barathvaj.art](https://myartportfolio-site.netlify.app/))
