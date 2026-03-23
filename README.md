@@ -24,10 +24,10 @@ I build **scalable, secure, and efficient backend systems**. I enjoy designing A
 
 
 ## 🔭 Currently Learning
-
-- Advanced **REST API optimization**  
-- **Authentication & Authorization best practices**  
-- **Full-stack integration** with frontend frameworks  
+   
+   * Database optimization & indexing strategies
+   * API rate limiting and caching patterns
+   * System design fundamentals for scalable backends
 
 ---
 
